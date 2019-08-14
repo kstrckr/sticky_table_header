@@ -1,0 +1,46 @@
+.table-container {
+    padding: 16px;
+}
+
+#shadow-table {
+    margin: 0 auto;
+    padding: 0;
+    position: fixed;
+    top: 25px;
+    background: #fff;
+}
+
+#main-table {
+    margin: 25px auto;
+    width: 100%;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+table, th, td {
+    border: 1px solid #cfcfcf;
+}
+
+tr {
+    border: 1px solid #cfcfcf;
+}
+
+th, td {
+    padding: 3px 9px;
+}
+    
+
+th {
+    margin: 0 0;
+    padding: 0 0;
+    padding-left: 9px;
+    text-align: left;
+    font-weight: normal;
+}
+
+td {
+    margin: 0 0;
+    text-align: left;
+}
